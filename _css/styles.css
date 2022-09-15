@@ -5,3 +5,10 @@
     color: blue;
     background-color: aquamarine;
 }
+
+header {
+    background-color: bisque;
+    width: 80%;
+    margin: 20px auto;
+    position: relative;
+}
